@@ -1,0 +1,5 @@
+lsm6ds3_port.c:45:18:LSM6DS3Core_readRegister	16	static
+lsm6ds3_port.c:6:18:LSM6DS3Core_beginCore	24	static
+lsm6ds3_port.c:98:18:LSM6DS3Core_readRegisterRegion	16	static
+lsm6ds3_port.c:162:18:LSM6DS3Core_readRegisterInt16	16	static
+lsm6ds3_port.c:182:18:LSM6DS3Core_writeRegister	16	static

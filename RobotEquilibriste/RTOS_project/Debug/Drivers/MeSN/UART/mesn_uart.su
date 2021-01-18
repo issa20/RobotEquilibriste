@@ -1,0 +1,5 @@
+mesn_uart.c:254:27:MESN_PRIV_UART_GetChar	24	static
+mesn_uart.c:89:6:MESN_UART_Init	56	static
+mesn_uart.c:156:6:MESN_UART_PutString_Poll	16	static
+mesn_uart.c:177:20:MESN_UART_GetString	16	static
+mesn_uart.c:229:8:USART2_IRQHandler	0	static

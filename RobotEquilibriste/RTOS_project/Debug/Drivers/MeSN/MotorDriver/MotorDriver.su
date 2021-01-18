@@ -1,0 +1,3 @@
+MotorDriver.c:36:6:MotorDriver_Init	8	static
+MotorDriver.c:48:6:MotorDriver_Move	16	static
+MotorDriver.c:71:6:MotorDriver_Stop	8	static

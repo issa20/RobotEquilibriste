@@ -1,0 +1,13 @@
+MeSN_i2c.c:44:20:MeSN_I2C_Init	48	static
+MeSN_i2c.c:96:6:MeSN_I2C_DeInit	8	static
+MeSN_i2c.c:110:20:MeSN_I2C_Write	32	static
+MeSN_i2c.c:153:20:MeSN_Read	32	static
+MeSN_i2c.c:198:20:MeSN_I2C_RegisterRead	40	static
+MeSN_i2c.c:273:6:HAL_I2C_MspInit	40	static
+MeSN_i2c.c:306:6:HAL_I2C_MspDeInit	8	static
+MeSN_i2c.c:325:7:I2C1_EV_IRQHandler	0	static
+MeSN_i2c.c:333:7:I2C1_ER_IRQHandler	0	static
+MeSN_i2c.c:361:6:HAL_I2C_MasterTxCpltCallback	0	static
+MeSN_i2c.c:373:6:HAL_I2C_MasterRxCpltCallback	0	static
+MeSN_i2c.c:385:6:HAL_I2C_MemRxCpltCallback	0	static
+MeSN_i2c.c:397:6:HAL_I2C_ErrorCallback	8	static
